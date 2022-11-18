@@ -6,7 +6,7 @@ This documentation is prepared as the workflow to accompany the following study:
 *Cryst. Growth Des. 2022, 22, 9, 5424–5431*
 https://doi.org/10.1021/acs.cgd.2c00522
 
-Noor Titan Putri Hartono (1), Mansoor Ani Najeeb Nellikkal (2), Zhi Li (3), Philip W. Nega (3), Clare A. Fleming (2), Xiaohe Sun (2), Emory M. Chan (3), Antonio Abate (5), Alexander J. Norquist (2), Joshua Schrier (4), Tonio Buonassisi (1)
+Noor Titan Putri Hartono (1, 5), Mansoor Ani Najeeb Nellikkal (2), Zhi Li (3), Philip W. Nega (3), Clare A. Fleming (2), Xiaohe Sun (2), Emory M. Chan (3), Antonio Abate (5), Alexander J. Norquist (2), Joshua Schrier (4), Tonio Buonassisi (1)
 
 Affiliations:
 
