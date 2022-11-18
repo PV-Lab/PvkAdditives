@@ -1,9 +1,12 @@
 # Machine Learning-Based Hypothesis Generation to Select Optimum Additive for Perovskite Single-Crystal Synthesis (PvkAdditives)
 This documentation is prepared as the workflow to accompany the following study:
 
-**"(insert the title of the paper)"**
+**"Principled Exploration of Bipyridine and Terpyridine Additives to Promote Methylammonium Lead Iodide Perovskite Crystallization"**
 
-Noor Titan Putri Hartono (1), Mansoor Ani Najeeb Nellikkal (2), Zhi Li (3), Alexander Norquist (2), Joshua Schrier (4), Tonio Buonassisi (1) **DID I MISS ANYONE?**
+*Cryst. Growth Des. 2022, 22, 9, 5424–5431*
+https://doi.org/10.1021/acs.cgd.2c00522
+
+Noor Titan Putri Hartono (1), Mansoor Ani Najeeb Nellikkal (2), Zhi Li (3), Philip W. Nega (3), Clare A. Fleming (2), Xiaohe Sun (2), Emory M. Chan (3), Antonio Abate (5), Alexander J. Norquist (2), Joshua Schrier (4), Tonio Buonassisi (1)
 
 Affiliations:
 
@@ -11,6 +14,7 @@ Affiliations:
 2. Department of Chemistry, Haverford College, 370 Lancaster Avenue, Haverford, Pennsylvania 19041, USA 
 3. Molecular Foundry, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, California 94720, USA 
 4. Department of Chemistry, Fordham University, 441 E. Fordham Road, The Bronx, New York 10458, USA 
+5.  Helmholtz-Zentrum Berlin für Materialien und Energie GmbH, Kekuléstraße 5, Berlin 12489, Germany
 
 ## Installation and Requirements
 To install, just clone this repository and chemprop repository:
